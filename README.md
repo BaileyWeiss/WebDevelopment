@@ -11,3 +11,5 @@
 2. [Snowman Holdings Group Source Code](Snowman_Holdings_Group_Source_Code/)
 
 3. [Midtown Kava Lounge Source Code](Midtown_Kava_Lounge_Source_Code/)
+
+4. [Prehistoric Pals Toys Shopify Addons](Prehistoric_Pals_Toys_Source_Code/)
