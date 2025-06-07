@@ -42,7 +42,7 @@ This project took approximately **5 months** to complete, with extended rounds o
 
 ---
 
-## 🛠️ Tech Stack & Plugins
+## Tech Stack & Plugins
 
 | Category     | Tools Used                                 |
 |--------------|---------------------------------------------|
