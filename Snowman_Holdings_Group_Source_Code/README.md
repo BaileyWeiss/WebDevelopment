@@ -5,9 +5,9 @@ Welcome to the source code for the official website of **Snowman Holdings Group*
 
 ## Project Overview
 
-This website was designed and developed for **Snowman Holdings Group**, a client seeking a fun-loving yet professional online presence delivered on a budget. To keep development lean while maintaining full control over the site's structure and styling, I chose to host the website via **cPanel** rather than building a custom WordPress theme.
+This website was designed and developed for **Snowman Holdings Group**, a client seeking a professional, yet fun-loving, online presence delivered on a budget. To keep development lean while maintaining full control over the site's structure and styling, I chose to host the website via **cPanel** rather than building a custom WordPress theme or utilizing any web content management systems. After all, the client had no interest in updating anything themselves, as they hired me for web maintenance. The plan for the future is to officially transfer over to WordPress so the client can expand their team of marketing managers who may need access to the back-end with low-code functionality. 
 
-This was a **solo project** — I was responsible for:
+This was a **solo project**, I was responsible for:
 
 - **Client onboarding and communication**
 - **Full-stack web development**
@@ -42,6 +42,7 @@ This project was completed in **3 months**, from initial client onboarding to fi
    - Cross-browser compatibility
    - SEO audit
    - Live deployment via cPanel
+   - Fixed any additional bugs from deployment
 
 ---
 
@@ -51,7 +52,7 @@ This project was completed in **3 months**, from initial client onboarding to fi
 |--------------|------------------------|
 | Front-End    | HTML5, CSS3, JavaScript |
 | Hosting      | cPanel (Shared Hosting) |
-| Design Tools | Adobe Photoshop & Illustrator |
+| Design Tools | Clip Studio Paint & Canva |
 | Writing Tools | Grammarly, Google Docs |
 
 ---

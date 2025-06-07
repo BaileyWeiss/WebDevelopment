@@ -1,19 +1,22 @@
 # Diesel Fuel Solutions, LLC — Custom WordPress Theme  
 [DieselFuelSolutions.net](https://dieselfuelsolutions.net)
 
-This repository contains the fully custom WordPress theme developed for **Diesel Fuel Solutions, LLC** — a bold, masculine, and professional website tailored to the branding and operational needs of founder **Nick** and his team.
+This repository contains the fully custom WordPress theme developed for **Diesel Fuel Solutions, LLC**. This website was built in a bold, masculine, and professional brand voice tailored to the operational needs of the founder, **Nick**, and his team.
 
 ## Project Overview
 
-**Diesel Fuel Solutions, LLC** approached me with a clear vision: a **manly, dark-centered aesthetic** that felt powerful and clean — without relying on any pre-made WordPress themes. This custom theme was developed from the ground up and includes a dynamic set of tools, animations, and integrations designed specifically to meet the client’s branding and functionality goals.
+**Diesel Fuel Solutions, LLC** approached me with a clear vision: a **manly, dark-centered aesthetic** that felt powerful and clean without relying on any pre-made WordPress themes. This custom theme was developed from the ground up and includes a dynamic set of tools, animations, and integrations designed specifically to meet the client’s branding and functionality goals.
 
-This was a **solo project**. I was responsible for:
+This was a **pair project**. I was responsible for:
 
 - **Custom WordPress theme development**
 - **Graphic design and visual branding**
 - **Plugin configuration and integration**
 - **Copywriting and SEO strategy**
-- **Client communication and deployment**
+
+My partner was responsible for:
+
+- **Client communication**
 
 ---
 
@@ -33,7 +36,7 @@ This project took approximately **5 months** to complete, with extended rounds o
 3. **Month 4: Content & Integration**
    - Full SEO-optimized copywriting
    - WooCommerce setup for future scalability
-   - Salesforce form integration using external linking due to iframe security restrictions
+   - Salesforce form integration using external linking due to iframe security restrictions (this was an unexpected rework)
 
 4. **Month 5: Testing & Launch**
    - Performance optimization
@@ -45,11 +48,10 @@ This project took approximately **5 months** to complete, with extended rounds o
 ## Tech Stack & Plugins
 
 | Category     | Tools Used                                 |
-|--------------|---------------------------------------------|
+|--------------|--------------------------------------------|
 | Platform     | WordPress (Custom Theme)                   |
-| Hosting      | cPanel                                      |
-| Page Builder | Elementor                                   |
-| Plugins      | Advanced Custom Fields (ACF), WooCommerce, Jetpack, Animation Addon, Yoast SEO |
+| Page Builder | Elementor and Advanced Custom Fields (ACF)                                   |
+| Extra Plugins| WooCommerce, Jetpack, Animation Addon      |
 | SEO Tools    | Yoast SEO, Custom Schema Markup            |
 | Contact/CRM  | External Salesforce Form via Widget Link   |
 
@@ -87,12 +89,12 @@ This project highlights:
 - Comfort working with **advanced plugin stacks** like ACF, WooCommerce, and Yoast.
 - A solid understanding of **front-end and back-end WordPress customization**.
 - Flexibility and communication skills during high-feedback collaboration cycles.
-- Creative problem-solving — such as the **Salesforce integration workaround**.
+- Creative problem-solving such as the **Salesforce integration workaround**.
 
 ---
 
 ## Contact
 
-If you're seeking a full-time web developer who can handle **custom builds**, **plugin ecosystems**, and **client-focused solutions** — I’d love to connect.
+If you're seeking a full-time web developer who can handle **custom builds**, **plugin ecosystems**, and **client-focused solutions**, I’d love to connect.
 
 **Let’s bring your next digital project to life.**
