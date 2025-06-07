@@ -1,4 +1,4 @@
-# Diesel Fuel Solutions, LLC — Custom WordPress Theme  
+# Diesel Fuel Solutions, LLC | Custom WordPress Theme  
 [DieselFuelSolutions.net](https://dieselfuelsolutions.net)
 
 This repository contains the fully custom WordPress theme developed for **Diesel Fuel Solutions, LLC**. This website was built in a bold, masculine, and professional brand voice tailored to the operational needs of the founder, **Nick**, and his team.

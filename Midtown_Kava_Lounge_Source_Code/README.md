@@ -1,4 +1,4 @@
-# Midtown Kava Lounge Website  
+# Midtown Kava Lounge Website | Source Code
 [MidtownKavaLounge.com](https://midtownkavalounge.com)
 
 This repository contains the source code and assets for **Midtown Kava Lounge**, a calming, green-themed website built for a relaxing kava bar experience in collaboration with **Capital City Kava**. The site was developed from scratch using **HTML, CSS, and JavaScript**, hosted on **cPanel** for ease of management and low maintenance.

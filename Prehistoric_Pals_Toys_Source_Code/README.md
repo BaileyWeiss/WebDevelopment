@@ -1,4 +1,4 @@
-# Prehistoric Pals Toys – Shopify Components  
+# Prehistoric Pals Toys | Shopify Components  
 [PrehistoricPalsToys.com](https://prehistoricpalstoys.com)
 
 This repository contains two custom Shopify Liquid components designed for **Prehistoric Pals Toys**, a fun and inclusive toy brand focused on hybrid dinosaur-vehicle characters. The components were created to enhance user engagement and improve the Shopify storefront experience.
