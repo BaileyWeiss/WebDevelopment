@@ -62,23 +62,14 @@ This project took approximately **5 months** to complete, with extended rounds o
 
 ## Folder Breakdown
 
-This custom theme includes:
+This repository includes:
 
-/dieselfuelsolutions-theme/
-├── assets/
-│ ├── css/ # Custom styling
-│ ├── js/ # Custom interactivity
-│ └── images/ # Brand visuals and media
-├── template-parts/ # Modular theme components
-├── woocommerce/ # WooCommerce template overrides
-├── acf-json/ # ACF field group settings
-functions.php # Theme functions and hooks
-style.css # Theme header and base styles
-single.php # Single post/page templates
-page.php # Custom page template logic
-header.php / footer.php # Global layout
-
-
+[The Custom WordPress Theme](dieselfuelsolutions-theme/)
+[About Page HTML](about.html)
+[Application Page HTML](apply.html)
+[Contact Page HTML](contact.html)
+[Home Page HTML](index.html)
+[Blog Page HTML](insights.html)
 ---
 
 ## What This Project Demonstrates

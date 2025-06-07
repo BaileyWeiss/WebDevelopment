@@ -59,16 +59,15 @@ This project was completed in **3 months**, from initial client onboarding to fi
 
 ## Folder Breakdown
 
-Here’s a quick guide to what’s inside this repository:
-├── assets/ # Optimized images and logos
-├── insights/ #SEO optimized blogs
-├── css/ # Main stylesheet (styles.css)
-├── js/ # Scripts for interactivity (main.js)
-index.html # Homepage
-about.html # About Us page
-services.html # Services overview
-contact.html # Contact form and map
-articles/ # SEO-optimized articles written for the client
+This repository includes:
+
+[The Assets For The Website Including Imgs and Logos](assets/)
+[The CSS](css/styles.css)
+[The JavaScript](js/)
+[About Page HTML](about.html)
+[Home Page HTML](index.html)
+[Blog Page HTML](insights.html)
+
 ---
 
 ## Why This Project Matters

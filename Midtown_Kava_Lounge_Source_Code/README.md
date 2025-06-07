@@ -58,15 +58,22 @@ The website was fully built and deployed over the course of **2 months**, thanks
 
 ## Folder Breakdown
 
-/assets/
-├── css/ # Core stylesheets (green theme)
-├── js/ # Navigation and interaction scripts
-├── images/ # Custom photography and branding graphics
-index.html # Homepage
-menu.html # Menu page with item descriptions
-team.html # Meet the Team page with bios
-contact.html # Contact & feedback info
-blog/ # Handwritten blog entries to boost SEO
+This repository includes:
+
+[The Assets For The Website Including imgs, vendor files, documents, js, and css](assets/)
+[PHP Contact Form Code](forms/contact.php)
+[The CSS](assets/css/main.css)
+[The JavaScript](assets/js/main.js)
+[About Page HTML](mission.html)
+[Home Page HTML](index.html)
+[Blog Page HTML](insights.html)
+[The Published Blogs](insights/)
+[Contact Page HTML](contact.html)
+[Disclaimer Page HTML](disclaimer.html)
+[Product Description, Kratom Page HTML](etea.html)
+[Product Description, Kava Page HTML](kava.html)
+[Menu Page HTML](menu.html)
+[Team Page HTML](team.html)
 
 
 ---
